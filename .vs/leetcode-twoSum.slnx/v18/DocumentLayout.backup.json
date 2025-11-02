@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\leetcode-twoSum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5902A4-DD65-4F28-9C7E-317E0D9EB73B}|leetcode-twoSum\\leetcode-twoSum.csproj|c:\\dev\\leetcode-twosum\\leetcode-twosum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5902A4-DD65-4F28-9C7E-317E0D9EB73B}|leetcode-twoSum\\leetcode-twoSum.csproj|solutionrelative:leetcode-twosum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\leetcode-twoSum\\leetcode-twoSum\\Program.cs",
+              "RelativeDocumentMoniker": "leetcode-twoSum\\Program.cs",
+              "ToolTip": "C:\\Dev\\leetcode-twoSum\\leetcode-twoSum\\Program.cs",
+              "RelativeToolTip": "leetcode-twoSum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T15:47:06.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
